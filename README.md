@@ -6,10 +6,10 @@
 
 2016年からはフリーランスとして働いています。
 
-仕事の内容などは以下の略歴を参照して下さい。
+仕事の内容は以下の略歴を参照して下さい。
 
 業務、プライベート合わせて開発したライブラリのうち、
-オープンソースとして公開しているものも多数あります。
+オープンソースとして公開しているものが多数あります。
 
 あわせて確認いただけると分かりやすいかと思います。
 
@@ -29,18 +29,41 @@
 
 ## 略歴
 
-### 2016以降
+### 2016-2020
 
 フリーランス
 
 #### おもな仕事
 
-- Elixirによるメッセージングサービスのサーバーサイドの開発
+#### 2020
+
+- pion(golang)によるグループボイスチャットサーバー、及びTypeScriptによるSDK開発、GCP上での運用業務
+- 3DCG分野における機械学習の応用に関するR&D (おもにHuman Pose Estimation)
+- ゲーム特化ボイスチャットシステムの研究開発
+
+#### 2018-2019
+
 - WebRTC/Unityによるボイスチャットエンジン(iOS/OSX/Android/Windows/UWP)の開発
-- WebRTC SFUのクライアント(Android)側SDK開発
 - WebAuthn iOS/Androidネイティブライブラリ開発
+
+関連ライブラリ
+
+- https://github.com/lyokato/WebAuthnKit-iOS
+- https://github.com/lyokato/WebAuthnKit-Android
+
+#### 2016-2017
+
+- Elixirによるメッセージングサービスのサーバーサイドの開発
+- WebRTC SFUのクライアント(Android)側SDK開発
 - golangによるOpenID Connect Providerの開発
 - Eddystone EIDを使った位置報酬ビーコン/アプリケーション/サーバーのライブラリ開発
+
+関連ライブラリ
+
+- https://github.com/lyokato/goidc
+- https://github.com/lyokato/riverside
+- https://github.com/lyokato/redlock
+- https://github.com/lyokato/aws_ex_ray
 
 #### 登壇
 
