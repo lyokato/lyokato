@@ -41,7 +41,7 @@
 - 3DCG分野における機械学習の応用に関するR&D (おもにHuman Pose Estimation)
 - ゲーム特化ボイスチャットシステムの研究開発
 
-#### 2018-2019
+#### 2019
 
 - WebRTC/Unityによるボイスチャットエンジン(iOS/OSX/Android/Windows/UWP)の開発
 - WebAuthn iOS/Androidネイティブライブラリ開発
@@ -51,19 +51,23 @@
 - https://github.com/lyokato/WebAuthnKit-iOS
 - https://github.com/lyokato/WebAuthnKit-Android
 
-#### 2016-2017
+#### 2017-2018
 
 - Elixirによるメッセージングサービスのサーバーサイドの開発
 - WebRTC SFUのクライアント(Android)側SDK開発
+
+- https://github.com/lyokato/riverside
+- https://github.com/lyokato/redlock
+- https://github.com/lyokato/aws_ex_ray
+
+#### 2016-2017
+
 - golangによるOpenID Connect Providerの開発
 - Eddystone EIDを使った位置報酬ビーコン/アプリケーション/サーバーのライブラリ開発
 
 関連ライブラリ
 
 - https://github.com/lyokato/goidc
-- https://github.com/lyokato/riverside
-- https://github.com/lyokato/redlock
-- https://github.com/lyokato/aws_ex_ray
 
 #### 登壇
 
