@@ -37,7 +37,7 @@
 
 #### 2020
 
-- pion(golang)によるグループボイスチャットサーバー、及びTypeScriptによるSDK開発、GCP上での運用業務
+- オンラインイベントのためのpion(golang)によるグループボイスチャットサーバー、及びTypeScriptによるSDK開発、GCP上での運用業務
 - 3DCG分野における機械学習の応用に関するR&D (おもにHuman Pose Estimation)
 - ゲーム特化ボイスチャットシステムの研究開発
 
