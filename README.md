@@ -29,17 +29,21 @@
 
 ## 略歴
 
-### 2016-2020
+### 2016-2021
 
 フリーランス
 
 #### おもな仕事
 
-#### 2020
+#### 2020-2021
 
 - オンラインイベントのためのpion(golang)によるグループボイスチャットサーバー、及びTypeScriptによるSDK開発、GCP上での運用業務
 - 3DCG分野における機械学習の応用に関するR&D (おもにHuman Pose Estimation)
-- ゲーム特化ボイスチャットシステムの研究開発
+- ゲーム特化ボイスチャットシステムの研究開発(Rust/Elixir/Golang/C#/Objecive-C++/Java/JNI)
+
+関連ライブラリ
+
+- https://github.com/xflagstudio/requiem
 
 #### 2019
 
