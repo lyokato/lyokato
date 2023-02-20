@@ -13,6 +13,8 @@
 
 あわせて確認いただけると分かりやすいかと思います。
 
+### OSSなど
+
 - github: https://github.com/lyokato
 - CPAN(Perl):https://metacpan.org/author/LYOKATO
 - RubyGems(Ruby): https://rubygems.org/profiles/lyokato
@@ -20,6 +22,10 @@
 - CocoaPods(Swift/Objective-C): https://cocoapods.org/owners/34020
 - CocoaControls(Objective-C): https://www.cocoacontrols.com/authors/lyokato
 - Maven(Kotlin): https://bintray.com/lyokato/maven
+
+### 個人開発アプリ
+
+- https://applion.jp/iphone/app/685105952/
 
 ## お仕事のご相談
 
@@ -35,7 +41,7 @@
 
 #### おもな仕事
 
-#### 2020-2021
+#### 2020-2022
 
 - オンラインイベントのためのpion(golang)によるグループボイスチャットサーバー、及びTypeScriptによるSDK開発、GCP上での運用業務
 - 3DCG分野における機械学習の応用に関するR&D (おもにHuman Pose Estimation)
