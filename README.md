@@ -45,7 +45,7 @@
 #### 2019
 
 - WebRTC/Unityによるボイスチャットエンジン(iOS/OSX/Android/Windows/UWP)の開発
-- WebAuthn iOS/Androidネイティブライブラリ開発
+- WebAuthn iOS/Androidネイティブライブラリ開発(Swift/Kotlin)
 
 関連ライブラリ
 
