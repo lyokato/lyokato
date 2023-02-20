@@ -25,7 +25,9 @@
 
 ### 個人開発アプリ
 
-[Flashback 2013年頃](https://apps.apple.com/jp/app/id685105952) [紹介記事](https://www.appbank.net/2013/11/13/iphone-application/699288.php)
+[Flashback](https://apps.apple.com/jp/app/id685105952) 2013年頃
+
+[紹介記事](https://www.appbank.net/2013/11/13/iphone-application/699288.php)
 
 ## お仕事のご相談
 
