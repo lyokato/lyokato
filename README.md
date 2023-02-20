@@ -25,7 +25,7 @@
 
 ### 個人開発アプリ
 
-- https://applion.jp/iphone/app/685105952/
+- https://applion.jp/iphone/app/685105952/ (2013年頃)
 
 ## お仕事のご相談
 
